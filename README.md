@@ -1,11 +1,11 @@
 ## Hi!
 
 - I am Vital
-- :flag_switzerland: from Switzerland
-- :man_scientist: Zoology | Marine ecology | Shark & ray biology
+- 🇨🇭 from Switzerland
+- 🔬 Zoology | Marine ecology | Shark & ray biology
 - :man_technologist: coding in R since 2016 with a special interest in modelling the
 - :shark: spatial behaviours, management and conservation of sharks and rays.
-- 💬 more information on my website (TBC)
+- 💬 more information on my website (TBD)
 
 
 <!--
