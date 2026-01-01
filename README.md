@@ -5,7 +5,7 @@
 - 🔬 Zoology | Marine ecology | Shark & ray biology
 - :man_technologist: coding in R since 2016 with a special interest in modelling the
 - :shark: spatial behaviours, management and conservation of sharks and rays
-- 💬 more information on my website (TBD)
+- 💬 more information on my website: www.vitalheim.ch
 
 
 <!--
